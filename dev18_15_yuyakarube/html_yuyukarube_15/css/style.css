@@ -1,0 +1,26 @@
+/* ここから下に記載していく */
+
+body{
+    text-align: center;
+
+}
+
+.winlose{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 26px;
+}
+
+.rival{
+    margin-bottom:40px;
+}
+
+.you_text{
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.hands:hover{
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+  }
